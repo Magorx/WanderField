@@ -1,0 +1,6 @@
+class Client:
+    def __init__(self, ip, port):
+        ...
+
+    def run(self):
+        ...
